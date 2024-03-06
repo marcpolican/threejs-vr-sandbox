@@ -6,6 +6,5 @@ Code is dirty
 
 Playable link: https://marcpolican.github.io/threejs-vr-sandbox/
 
-
-https://github.com/marcpolican/threejs-vr-sandbox/assets/4010243/c558559f-2a53-4430-a72c-356e493af710
+https://github.com/marcpolican/threejs-vr-sandbox/assets/4010243/e207000a-2852-488e-83db-691b45a614a4
 
